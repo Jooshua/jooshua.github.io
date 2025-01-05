@@ -2,11 +2,17 @@
 layout: page
 permalink: /service/
 title: service
-description: A list of services to the scientific community.
+description: Contributing to the Scientific Community
 nav: true
 nav_order: 7
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Programm Committee:
+- QML@QCE 2024
 
-Organize your courses by years, topics, or universities, however you like!
+Subreviewer:
+- Q-SANER 2025
+- Q-SE 2024
+- Q-SANER 2024
+- QSW 2023
+- Q-SE 2023

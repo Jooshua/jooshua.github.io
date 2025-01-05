@@ -1,7 +1,7 @@
 {
   "education": [
     {
-      "name": "Karlsruhe Institute of Technology, Germany",
+      "name": "Karlsruhe Institute of Technology (KIT), Germany",
       "location": "Karlsruhe, Germany",
       "url": "https://www.kit.edu",
       "area": "Computer Science",
@@ -9,7 +9,7 @@
       "startDate": "2022 Jul"
     },
     {
-      "institution": "Technische Universität Braunschweig, Germany",
+      "institution": "Technische Universität Braunschweig (TUBS), Germany",
       "location": "Brunswick, Germany",
       "url": "https://www.tu-braunschweig.de/",
       "area": "Computer Science",
@@ -18,7 +18,7 @@
       "endDate": "2022 May"
     },
     {
-      "institution": "Baden-Wuerttemberg Cooperative State University, Germany",
+      "institution": "Baden-Wuerttemberg Cooperative State University (DHBW), Germany",
       "location": "Mannheim, Germany",
       "url": "https://www.dhbw.de/",
       "area": "Information Technology",
@@ -29,7 +29,7 @@
   ],
   "work": [
     {
-      "name": "Institute for Information Security and Dependability, Karlsruhe Institute of Technology",
+      "name": "Institute for Information Security and Dependability, Karlsruhe Institute of Technology (KIT)",
       "location": "Karlsruhe, Germany",
       "position": "Scientific employee / Doctoral researcher",
       "url": "https://tva.kastel.kit.edu",
@@ -43,8 +43,8 @@
       "position": "Part time technical employee with focus on software engineering",
       "url": "https://www.dlr.de/en/sc",
       "startDate": "2019 Oct",
-      "endDate": "2022 April",
-      "summary": ".",
+      "endDate": "2022 Apr",
+      "summary": "TBD.",
       "highlights": ["Software engineering", "Model-based software"]
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://www.dlr.de/en/as",
       "startDate": "2016 Sep",
       "endDate": "2019 Sep",
-      "summary": "."
+      "summary": "TBD."
     }
   ],
   "languages": [

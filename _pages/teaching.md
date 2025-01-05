@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Supporting Students on Their Academic Journey
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+At KIT, my teaching activities mainly involve student projects, organising lectures and carrying out the practical part of a lecture.
 
-Organize your courses by years, topics, or universities, however you like!
+I was involved in:
+- Programming paradigms - compilers (WS24)
+- Introduction to quantum computing (WS23)
+- Software engineering I (SS23, SS24, SS25)
+- Practice of software development (WS22, WS23)
