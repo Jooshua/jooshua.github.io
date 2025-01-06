@@ -34,7 +34,7 @@
       "position": "Scientific employee / Doctoral researcher",
       "url": "https://tva.kastel.kit.edu",
       "startDate": "2022 Jul",
-      "summary": "TBD.",
+      "summary": "I am currently a doctoral researcher at the Karlsruhe Institute of Technology. My research and teaching interests are in software engineering for classical and quantum systems.",
       "highlights": ["Software engineering", "Quantum software engineering"]
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.dlr.de/en/sc",
       "startDate": "2019 Oct",
       "endDate": "2022 Apr",
-      "summary": "TBD.",
+      "summary": "At the German Aerospace Center in Brunswick I was part of the software for Software for Space Systems and Interactive Visualization group and worked on the open source software VirtualSatellite software, focusing on designing and integrating a REST API.",
       "highlights": ["Software engineering", "Model-based software"]
     },
     {
@@ -54,18 +54,23 @@
       "url": "https://www.dlr.de/en/as",
       "startDate": "2016 Sep",
       "endDate": "2019 Sep",
-      "summary": "TBD."
+      "summary": "I completed a dual study programme at the German Aerospace Center in Göttingen and the DHBW Mannheim. My research group investigated aircraft noise, in which I dealt with data handling and visualization."
     }
   ],
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
+      "fluency": "Native speaker (C2)",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (C1)",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Basis (A1)",
       "icon": ""
     }
   ]
