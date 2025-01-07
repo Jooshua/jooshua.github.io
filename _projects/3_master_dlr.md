@@ -2,10 +2,11 @@
 layout: page
 title: VirtualSatellite
 description: Part time work during my master studies
-# img: assets/img/12.jpg
+img: assets/img/virSat.png
 importance: 3
 category: work
 related_publications: false
+attribution: Thumbnail image by [DLR](https://www.dlr.de/) licensed under [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/de/)
 ---
 
 During my master studies I was working part time on the open source [VirtualSatellite](https://github.com/virtualsatellite) software at the German Aerospace Center (DLR) in Brunswick.

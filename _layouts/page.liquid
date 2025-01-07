@@ -28,4 +28,14 @@ layout: default
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
+
+  <!-- Collapsible Attribution Section -->
+  {% if page.attribution %}
+    <details class="attribution-section mt-2">
+      <summary>Image Credits</summary>
+      <p class="attribution-text small">
+        {{ page.attribution | markdownify }}
+      </p>
+    </details>
+  {% endif %}
 </div>

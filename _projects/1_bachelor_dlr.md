@@ -2,10 +2,11 @@
 layout: page
 title: Aircraft noise data handling and visualization
 description: practical terms of my dual bachelor studies
-# img: assets/img/12.jpg
+img: assets/img/kyle-glenn-4SfHeE5MpFk-unsplash.jpg
 importance: 6
 category: work
 related_publications: false
+attribution: Thumbnail image by [Kyle Glenn](https://unsplash.com/@kylejglenn?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash), on [Unsplash](https://unsplash.com/photos/low-angle-photography-red-and-white-plane-4SfHeE5MpFk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
 ---
 
 I spent the practical terms of my dual bachelor studies working with aircraft noise data at the German Aerospace Center (DLR) in Göttingen.

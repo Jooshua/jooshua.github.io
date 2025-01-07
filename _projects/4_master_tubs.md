@@ -2,7 +2,7 @@
 layout: page
 title: Master student projects
 description: university terms of my master studies
-# img: assets/img/12.jpg
+img: assets/img/aiql.png
 importance: 4
 category: work
 related_publications: true

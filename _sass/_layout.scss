@@ -51,3 +51,21 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+.attribution-section {
+  margin-top: 10px;
+}
+
+.attribution-section summary {
+  cursor: pointer;
+  color: var(--global-theme-color);
+}
+
+.attribution-section summary:hover {
+  text-decoration: underline;
+}
+
+.attribution-text {
+  margin: 5px 0 0;
+  font-size: 0.875rem;
+  color: var(--global-text-color);
+}
