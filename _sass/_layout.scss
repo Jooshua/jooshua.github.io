@@ -38,19 +38,16 @@ body.sticky-bottom-footer {
   }
 }
 
-// TODO: redefine content layout.
 
 /******************************************************************************
  * Publications
  ******************************************************************************/
 
-// TODO: redefine publications layout.
 
 /*****************************************************************************
 * Projects
 *****************************************************************************/
 
-// TODO: redefine projects layout.
 .attribution-section {
   margin-top: 10px;
 }
@@ -68,4 +65,20 @@ body.sticky-bottom-footer {
   margin: 5px 0 0;
   font-size: 0.875rem;
   color: var(--global-text-color);
+}
+
+.tooltip {
+  color: var(--global-text-color-light);
+  background-color: var(--global-bg-color);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.country {
+  fill: var(--global-text-color); /* Default color */
+}
+
+#map {
+  width: 100%;
+  height: auto;
 }
