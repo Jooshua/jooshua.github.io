@@ -1,4 +1,20 @@
 [
-    { "country": "USA", "year": 2020, "lat": 37.0902, "lon": -95.7129 },
-    { "country": "Germany", "year": 2021, "lat": 51.1657, "lon": 10.4515 }
+    { "country": "Germany", "tip": "homeland", "lat": 51.165691, "lon": 10.451526 },
+    { "country": "France", "tip": "visited in 2023 & 2024", "lat":  46.227638, "lon": 2.213749},
+    { "country": "Portugal", "tip": "visited in 2024", "lat": 39.399872, "lon": -8.224454},
+    { "country": "Canaries (Spain)", "tip": "visited in 2017 & 2018", "lat": 28.0997, "lon": -15.4134},
+    { "country": "Turkey", "tip": "visited in 2023", "lat": 38.963745, "lon": 35.243322},
+    { "country": "Australia", "tip": "visited in 2023", "lat": -25.274398, "lon": 133.775136},
+    { "country": "Not rendering", "tip": "visited in 2023", "lat": 0.0, "lon": 133.775136},
+    { "country": "Rendering", "tip": "visited in 2023", "lat": 0.1, "lon": 133.775136},
+    { "country": "Japan", "tip": "visited in 2024", "lat":  36.204824, "lon": 138.252924},
+    { "country": "Malta", "tip": "visited in 2019", "lat":  35.937496, "lon": 14.375416},
+    { "country": "Italy", "tip": "visited in 2018", "lat":  41.87194, "lon": 12.56738},
+    { "country": "Austria", "tip": "visited in 2024", "lat": 49.214439, "lon": -2.13125},
+    { "country": "Hungary", "tip": "", "lat": 47.162494, "lon": 19.503304},
+    { "country": "Poland", "tip": "", "lat": 51.919438, "lon":  19.145136},
+    { "country": "Greece", "tip": "", "lat": 39.074208, "lon": 21.824312},
+    { "country": "Mallorca (Spain)", "tip": "", "lat": 39.571625, "lon": 2.650544},
+    { "country": "Netherlands", "tip": "", "lat": 52.132633, "lon": 5.291266},
+    { "country": "United Kingdom", "tip": "", "lat": 55.378051, "lon": -3.435973}
 ]
