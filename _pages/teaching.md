@@ -14,3 +14,5 @@ I was involved in:
 - Introduction to quantum computing (WS23)
 - Software engineering I (SS23, SS24, SS25)
 - Practice of software development (WS22, WS23)
+
+I have also (co-)supervised 4 theses so far.
