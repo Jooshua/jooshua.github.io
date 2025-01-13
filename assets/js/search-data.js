@@ -9,36 +9,22 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects-wip",
-          title: "projects (WIP)",
+  },{id: "nav-projects",
+          title: "projects",
           description: "A Collection of What I&#39;ve Built and Imagined",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-publications",
-          title: "publications",
+        },{id: "nav-academics",
+          title: "academics",
           description: "Exploring, Sharing, and Growing Along the Way",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/academics/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Supporting Students on Their Academic Journey",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-service",
-          title: "service",
-          description: "Contributing to the Scientific Community",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/service/";
-          },
-        },{id: "nav-career-wip",
-          title: "career (WIP)",
+        },{id: "nav-career",
+          title: "career",
           description: "Shaping My Path, One Step at a Time",
           section: "Navigation",
           handler: () => {
@@ -68,6 +54,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_website/";
+            },},{id: "projects-journey-log",
+          title: 'Journey log',
+          description: "Places I have visited so far.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_travel/";
             },},{id: "projects-aircraft-noise-data-handling-and-visualization",
           title: 'Aircraft noise data handling and visualization',
           description: "practical terms of my dual bachelor studies",
@@ -80,7 +71,7 @@ ninja.data = [{
               window.location.href = "/projects/2_bachelor_dhbw/";
             },},{id: "projects-virtualsatellite",
           title: 'VirtualSatellite',
-          description: "Part time work during my master studies",
+          description: "part time work during my master studies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_master_dlr/";
             },},{id: "projects-master-student-projects",
@@ -93,9 +84,9 @@ ninja.data = [{
           description: "Quantum Methods and Benchmarks for Resource Allocation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_qubra_kit/";
-            },},{id: "projects-moqel",
-          title: 'Moqel',
-          description: "...",
+            },},{id: "projects-current-research",
+          title: 'Current research',
+          description: "View- and model-based quantum software",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_moqel_kit/";
             },},{
