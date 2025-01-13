@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects (WIP)
+title: projects
 permalink: /projects/
 description: A Collection of What I've Built and Imagined
 nav: true

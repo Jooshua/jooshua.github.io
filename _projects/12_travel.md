@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Journey log
-description: Interactive map of places I have visited.
+description: Places I have visited so far.
 img: assets/img/travel.jpeg
 importance: 1
 category: fun

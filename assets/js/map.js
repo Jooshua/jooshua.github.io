@@ -25,7 +25,7 @@ var tooltip = d3.select("body").append("div")
 
 // Load the map data and country data
 Promise.all([
-    d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-50m.json"),
+    d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json"),
     d3.json("/assets/json/countries.json")
   ]).then(function([world, countries]) {
     // Extract the list of visited country names

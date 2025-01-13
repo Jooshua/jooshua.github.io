@@ -8,12 +8,14 @@ category: work
 related_publications: false
 ---
 
-I spent the university terms of my dual bachelor studies working on different topics at the DHBW Mannheim.
+I spent the semesters of my dual bachelor's programme working on different topics at the DHBW Mannheim.
 
 **UWP Application:** 
-To practice of software development in a small group, we developed an UWP Application to visualize server data, e.g. on a HoloLens. -> HoloLens, C#
+To practise software development in a small group, we used C#. We developed a UWP application to visualize server data, e.g. on a HoloLens.
 
-**Unity Game "Space Poller":** A twin stick shooter we developed in Unity, which is available on [itch.io](https://lilium-games.itch.io/space-poller). ->  C#, GIMP, Unity
+**Unity Game "Space Poller":** 
+A C# twin stick shooter we developed in Unity and available on [itch.io](https://lilium-games.itch.io/space-poller).
 
-**"VoiceLED":** A voice controlled LED display panel that can be controlled by an iOS app via BLE. I programmed the microcontroller (STM32) for this.
--> Bluetooth, STM, C
+**Project "VoiceLED":** 
+A voice-controlled LED display panel that can be controlled by an iOS app via Bluetooth Low Energy. 
+I programmed the microcontroller (STM32) in C.
