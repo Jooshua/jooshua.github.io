@@ -25,3 +25,17 @@ Egon-Eiermann-Allee 18a<br>
 <p>Sie haben jederzeit im Rahmen der geltenden gesetzlichen Bestimmungen das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, Herkunft der Daten, deren Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Diesbezüglich und auch zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit über die im Impressum aufgeführten Kontaktmöglichkeiten an uns wenden.</p>
 <h5>SSL- bzw. TLS-Verschlüsselung</h5>
 <p>Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der „https://“ Adresszeile Ihres Browsers und am Schloss-Symbol in der Browserzeile.</p>
+<!-- If  emails can be entered --->
+<!--
+<h5>Verwendung des Plugins "jekyll-email-protect"</h5>
+<p>Zum Schutz Ihrer E-Mail-Adresse vor automatisiertem Abrufen durch Bots verwenden wir das Plugin "jekyll-email-protect". Dieses sorgt dafür, dass Ihre E-Mail-Adresse auf der Website geschützt bleibt und nicht von unbefugten Dritten gesammelt werden kann.</p>
+--->
+<h5>Verwendung des Plugins "jekyll-sitemap"</h5>
+<p>Wir verwenden das Plugin "jekyll-sitemap", um eine Sitemap für Suchmaschinen zu erstellen. 
+Diese Sitemap hilft Suchmaschinen, unsere Seiten effizienter zu indexieren. 
+Dabei werden keine personenbezogenen Daten erhoben oder gespeichert.</p>
+<h5>Verwendung von Drittanbieter-Bibliotheken</h5>
+<p>Diese Webseite verwendet Drittanbieter-Bibliotheken wie Google Fonts, Bootstrap und andere Ressourcen, die von externen Anbietern wie jsDelivr und CDN-Diensten gehostet werden. 
+Diese Bibliotheken können bestimmte Daten, wie IP-Adressen, erfassen, um ihre Funktionalität zu ermöglichen und die Benutzererfahrung zu verbessern. 
+Weitere Informationen darüber, wie Drittanbieter-Bibliotheken mit Benutzerdaten umgehen, finden Sie in den jeweiligen Datenschutzrichtlinien.
+</p>

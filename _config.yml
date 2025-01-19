@@ -9,7 +9,10 @@ last_name: Ammermann
 contact_note: >
   Feel free to contact me via mail 😄
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Hi there! Thanks for stopping by my personal website.
+  Here, you'll find some of the projects I've been working on, a glimpse into my academic journey, and highlights from my career so far. 
+  Whether you're here to check out my work, learn more about me, or just stumbled upon this page by accident—feel free to look around. 
+  Let's connect if something catches your eye!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -150,7 +153,7 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-email-protect
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
@@ -162,7 +165,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-toc
-  - jekyll-twitter-plugin
+  # - jekyll-twitter-plugin
   - jemoji
   - terser
 
