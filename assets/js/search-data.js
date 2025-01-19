@@ -44,21 +44,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/privacy/";
           },
-        },{id: "projects-3d-printing",
+        },{id: "projects-journey-log",
+          title: 'Journey log',
+          description: "places I have visited so far.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_travel/";
+            },},{id: "projects-this-website",
+          title: 'This website',
+          description: "now using Jekyll with al-folio theme",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_website/";
+            },},{id: "projects-3d-printing",
           title: '3d printing',
           description: "mainly DnD minis",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/10_3d_printing/";
-            },},{id: "projects-this-website",
-          title: 'This website',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/11_website/";
-            },},{id: "projects-journey-log",
-          title: 'Journey log',
-          description: "Places I have visited so far.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/12_travel/";
+              window.location.href = "/projects/12_3d_printing/";
             },},{id: "projects-aircraft-noise-data-handling-and-visualization",
           title: 'Aircraft noise data handling and visualization',
           description: "practical terms of my dual bachelor studies",
