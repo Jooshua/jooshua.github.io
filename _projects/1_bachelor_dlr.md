@@ -11,16 +11,16 @@ attribution: Thumbnail image by [Kyle Glenn](https://unsplash.com/@kylejglenn?ut
 
 I spent the practical part of my dual bachelor's degree working with aircraft noise data at the German Aerospace Center (DLR) in Göttingen.
 
-**Data preparation and visualization:** 
+**Data preparation and visualization:**
 For first year, I collected and formatted data using Python to visualize it in a PDF generated using LaTeX and Matplotlib.
 
-**Integration of expert tools into a distributed software framework:** 
-For the second year, I integrated expert tools for aircraft noise prediction into DLR's distributed  software framework RCE.
+**Integration of expert tools into a distributed software framework:**
+For the second year, I integrated expert tools for aircraft noise prediction into DLR's distributed software framework RCE.
 The input and output of the expert tools were formatted in CPACS (an XML format for aircraft) using Python.
 
 **Speedup input-data generation using parallel programming:**
 In the third year, I investigated performance improvements in the generation of input data for aircraft noise scenarios through parallel programming.
 
-**Data Evaluation and Interactive Visualization (Thesis):** 
+**Data Evaluation and Interactive Visualization (Thesis):**
 In my thesis I automated the generation of data to compare aircraft noise measurements with calculated aircraft noise.  
 The data was then interactively visualised using the Python library Bokeh.
