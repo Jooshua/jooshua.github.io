@@ -1,7 +1,7 @@
 ---
 layout: page
 title: This website
-description:
+description: now using Jekyll with al-folio theme
 img: assets/img/james-harrison-vpOeXr5wmR4-unsplash.jpg
 importance: 1
 category: fun
