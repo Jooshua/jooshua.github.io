@@ -79,11 +79,11 @@ ninja.data = [{
           description: "university terms of my master studies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_master_tubs/";
-            },},{id: "projects-qubra",
-          title: 'QuBRA',
-          description: "Quantum Methods and Benchmarks for Resource Allocation",
+            },},{id: "projects-industrial-applications-of-quantum-computing",
+          title: 'Industrial applications of quantum computing',
+          description: "QuBRA and SEQUOIA end-to-end",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_qubra_kit/";
+              window.location.href = "/projects/5_qubra_sequoia_kit/";
             },},{id: "projects-current-research",
           title: 'Current research',
           description: "View- and model-based quantum software",
