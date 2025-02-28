@@ -31,10 +31,10 @@ My teaching activities involve student projects, organising lectures and carryin
 
 I was involved in:
 
-- Programming paradigms - compilers (WS24)
-- Introduction to quantum computing (WS23)
+- Programming paradigms - compilers (WS24/25)
+- Introduction to quantum computing (WS22/23, WS23/24)
 - Software engineering I (SS23, SS24, SS25)
-- Practice of software development (WS22, WS23)
+- Practice of software development (WS22/23, WS23/24)
 
 I have also (co-)supervised 4 theses so far.
 
@@ -46,10 +46,12 @@ Highlights of my professional service activities.
 
 - QML@QCE 2024
 
-**Subreviewer:**
+**(Sub-)Reviewer:**
 
-- Q-SANER 2025
-- Q-SE 2024
-- Q-SANER 2024
+- Q-SE@ICSE 2025
+- Q-SANER@SANER 2025
+- Q-SET@QCE 2024
+- Q-SE@ICSE 2024
+- Q-SANER@SANER 2024
 - QSW 2023
-- Q-SE 2023
+- Q-SE@ICSE 2023

@@ -22,5 +22,5 @@ The input and output of the expert tools were formatted in CPACS (an XML format 
 In the third year, I investigated performance improvements in the generation of input data for aircraft noise scenarios through parallel programming.
 
 **Data Evaluation and Interactive Visualization (Thesis):**
-In my thesis I automated the generation of data to compare aircraft noise measurements with calculated aircraft noise.  
+In my thesis I automated the generation of data to compare aircraft noise measurements with calculated aircraft noise.
 The data was then interactively visualised using the Python library Bokeh.

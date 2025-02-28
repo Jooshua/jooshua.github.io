@@ -12,4 +12,3 @@ attribution: Thumbnail image by [IBM Research](https://www.flickr.com/photos/ibm
 Industrial applications of quantum computing have been investigated in the Quantum Methods and Benchmarks for Resource Allocation (QuBRA) project.
 The SEQUOIA end-to-end project is working towards high-performance, automated and controllable end-to-end solutions for industrial applications.
 In this context, we have investigated in {% cite DBLP:conf/icse-qse/AmmermannBESS23 %} and {% cite DBLP:conf/icse-qse/AmmermannBBS24 %} how software product line optimisation problems could be addressed using quantum computing.
-
