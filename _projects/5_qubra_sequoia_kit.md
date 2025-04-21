@@ -2,7 +2,7 @@
 layout: page
 title: Industrial applications of quantum computing
 description: QuBRA and SEQUOIA end-to-end
-img: assets/img/ibm.jpg
+img: assets/img/ibm.png
 importance: 2
 category: work
 related_publications: true

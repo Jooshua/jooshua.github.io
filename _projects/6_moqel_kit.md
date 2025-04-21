@@ -2,7 +2,7 @@
 layout: page
 title: Current research
 description: View- and model-based quantum software
-img: assets/img/annie-spratt-QckxruozjRg-unsplash.jpg
+img: assets/img/annie-spratt-QckxruozjRg-unsplash.png
 importance: 1
 category: work
 related_publications: true

@@ -2,7 +2,7 @@
 layout: page
 title: VirtualSatellite
 description: part time work during my master studies
-img: assets/img/nasa-yZygONrUBe8-unsplash.jpg
+img: assets/img/nasa-yZygONrUBe8-unsplash.png
 importance: 3
 category: work
 related_publications: false

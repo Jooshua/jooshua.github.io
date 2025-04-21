@@ -2,7 +2,7 @@
 layout: page
 title: This website
 description: now using Jekyll with al-folio theme
-img: assets/img/james-harrison-vpOeXr5wmR4-unsplash.jpg
+img: assets/img/james-harrison-vpOeXr5wmR4-unsplash.png
 importance: 1
 category: fun
 related_publications: false

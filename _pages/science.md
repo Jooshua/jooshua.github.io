@@ -48,10 +48,7 @@ Highlights of my professional service activities.
 
 **(Sub-)Reviewer:**
 
-- Q-SE@ICSE 2025
-- Q-SANER@SANER 2025
-- Q-SET@QCE 2024
-- Q-SE@ICSE 2024
-- Q-SANER@SANER 2024
-- QSW 2023
-- Q-SE@ICSE 2023
+- Q-SE (@ICSE): 2025, 2024, 2023
+- Q-SANER (@SANER): 2025, 2024
+- Q-SET (@QCE): 2024
+- QSW (@ICWS): 2025, 2023

@@ -2,7 +2,7 @@
 layout: page
 title: Journey log
 description: places I have visited so far.
-img: assets/img/travel.jpeg
+img: assets/img/travel.png
 importance: 1
 category: fun
 related_publications: false

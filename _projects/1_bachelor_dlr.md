@@ -2,7 +2,7 @@
 layout: page
 title: Aircraft noise data handling and visualization
 description: practical terms of my dual bachelor studies
-img: assets/img/kyle-glenn-4SfHeE5MpFk-unsplash.jpg
+img: assets/img/kyle-glenn-4SfHeE5MpFk-unsplash.png
 importance: 6
 category: work
 related_publications: false
